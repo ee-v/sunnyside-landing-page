@@ -1,0 +1,19 @@
+{
+  "name": "sunnyside-agency-landing-page",
+  "version": "1.0.0",
+  "description": "This is a solution to the Sunnyside agency landing page challenge on Frontend. Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobile-first",
+    "flexbox",
+    "css-grid"
+  ],
+  "author": "ee-v",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
