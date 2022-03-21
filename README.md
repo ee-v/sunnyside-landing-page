@@ -34,8 +34,8 @@ Desktop:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/sunnyside-landing-page-flexbox-js-and-webpack-YJnyjs5di)
+- Live Site URL: [Live Preview](https://ee-v.github.io/sunnyside-landing-page/)
 
 ## My process
 
@@ -44,7 +44,6 @@ Desktop:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - Media queries
 - Webpack
